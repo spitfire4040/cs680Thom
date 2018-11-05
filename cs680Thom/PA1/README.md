@@ -1,3 +1,1 @@
-***This is a readme file for PA1***
 
-For this program there were two requirements; make the cube rotate on it's Y axis, and create a shader loader. I added the 'rotate' function from glm and multiplied this by the existing translate function, which did the job. The shader loader was much more difficult for me, mainly because I didn't quite know what it was supposed to be. After wrestling with the file-reading, this was finally accomplished. The last challenge was altering the make file so that it could be separated into a .cpp and .h file and compile. All seems to be working....
